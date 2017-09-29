@@ -2,4 +2,4 @@
 Source code for a Movie Trailer website.
 
 ## Usage
-`$ ./entertainment_center.py`
+`./entertainment_center.py`
